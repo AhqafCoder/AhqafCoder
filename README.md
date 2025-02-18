@@ -1,6 +1,9 @@
-### Hi there, I'm Ahqaf Ali! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AhqafCoder&color=blue)](https://github.com/AhqafCoder)
+# 🌐 Ahqaf Ali | Jugadu Gaming  [![Profile Views](https://komarev.com/ghpvc/?username=AhqafCoder&color=blue)](https://github.com/AhqafCoder)
+
+🚀 **Full-Stack Developer | Game Server Host | Tech Enthusiast**  
+
+Welcome to my portfolio repository! I'm **Ahqaf Ali**, also known as **Jugadu Gaming**, a passionate developer with experience in **web development, server hosting, and game development**. I specialize in building modern and scalable applications using **MERN stack, Django, and cloud technologies**.  
 
 ---
 
