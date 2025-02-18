@@ -9,11 +9,15 @@ Welcome to my portfolio repository! I'm **Ahqaf Ali**, also known as **Jugadu Ga
 
 ## 🚀 About Me
 - 👨‍💻 I’m **@AhqafCoder**, a passionate **DevOps** enthusiast
-- 🎯 Currently diving deep into **AI/ML**
 - 🌍 Open to collaborations in **Web Development & Server Hosting**
 - 🎮 Also managing **Indipixel Minecraft Arcade Server**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I am single** 😜
+- 🎮 Creator of **Indipixel**, a Minecraft arcade server for **Bedwars & Practice Modes**  
+- 📚 Pursuing **B.Tech in CSE** at **Invertis University**  
+- 💻 Experienced in **Web Development, Cloud Hosting, and Server Management**  
+- 🚀 Interested in **AI, Game Development, and Competitive Coding**  
+- 🏎 Currently working on a **Formula Kart prototype using a Yamaha R15 V4 engine** 
 
 ## 📊 GitHub Stats
 ![AhqafCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhqafCoder&show_icons=true&theme=radical)
