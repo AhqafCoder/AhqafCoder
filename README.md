@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhqafCoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhqafCoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" width="400" height="200"/>
  
-  <img src="https://streak-stats.demolab.com?user=AhqafCoder&theme=custom&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak" />
+ 
+  <img src="https://streak-stats.demolab.com?user=AhqafCoder&theme=custom&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak" width="400" height="200"/>
 </div>
 
 
