@@ -1,14 +1,26 @@
+<h1 align="center">Hi 👋, I'm Ahqaf Ali</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhqafCoder&color=FFA500&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center"><strong>
+  🚀 Full-Stack Developer | Game Server Host | Tech Enthusiast
+</strong></p>
 
 
-<h1 align="center">Hi 👋, Myself Ahqaf Ali</h1> 
+Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <strong>Jugadu Gaming</strong> — a passionate developer with experience in <strong>web and app development, game server hosting, and modern backend systems</strong>. I love creating scalable applications using the <strong>MERN stack, Django, and cloud technologies</strong>.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhqafCoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
+  <br/>
+ 
+  <img src="https://streak-stats.demolab.com?user=AhqafCoder&theme=custom&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak" />
+</div>
 
 
-🚀 **Full-Stack Developer | Game Server Host | Tech Enthusiast ![Profile Views](https://komarev.com/ghpvc/?username=AhqafCoder&color=blue)**  
-
-Welcome to my Github profile! I'm **Ahqaf Ali**, also known as **Jugadu Gaming**, a passionate developer with experience in **web and App development, server hosting, and game development**. I specialize in building modern and scalable applications using **MERN stack, Django, and cloud technologies**.  
-
-
-![AhqafCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhqafCoder&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhqafCoder&theme=dark)
 
 
 ## 🚀 About Me
