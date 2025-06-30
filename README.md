@@ -22,7 +22,12 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
  </td>
 <td>
  
-  <img src="https://streak-stats.demolab.com?user=AhqafCoder&theme=custom&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak" width="400" height="200"/>
+  <img 
+  src="https://streak-stats.demolab.com?user=AhqafCoder&theme=custom&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" 
+  alt="GitHub Streak" 
+  width="400" 
+  height="200"
+/>
 
 </td>
 </tr>
