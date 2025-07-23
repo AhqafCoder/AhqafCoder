@@ -70,6 +70,7 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
 </a>
 
 <br>
+<br>
 
 ## 🏆 GitHub Trophies
 
@@ -153,10 +154,39 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
     </table>
 </div>
 
+<br>
 
 ## 📫 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-AhqafCoder-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/ahqafcoder)
 
----
+<div align="center">
 
-Thanks for stopping by! 😊
+  <a href="https://github.com/AhqafCoder" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/ahqaf.ali" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://discord.com/users/ahqafcoder" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:ahqafaliofficial@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+
+</div>
+
+<br>
+
+
+<h3 align="center">
+  Thanks for visiting! 🚀<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Keep+building+cool+stuff!;Follow+for+more+dev+journeys+%F0%9F%9A%80" alt="Thanks animation" />
+</h3>
+
+
