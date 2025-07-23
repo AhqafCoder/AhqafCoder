@@ -55,8 +55,8 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
 
 - 🥇 **Techathon 2024 Winner** – Secured 1st place among 50+ teams across multiple universities.
 - 🥇 **Inverthon 2025 Champion** – Won 1st position in an inter-department hackathon, competing against senior developers and teams.
-- 🧠 **Created [InvertisPrep](https://github.com/your-invertisprep-repo)** – An exam preparation platform tailored for university students (exams, flashcards, and study tools).
-- 🚀 **Currently building [OpenGeek](https://github.com/your-opengeek-repo)** – A developer community platform focused on collaboration, projects, events, and more!
+- 🧠 **Created [InvertisPrep](https://github.com/AhqafCoder/InvertisPrep)** – An exam preparation platform tailored for university students (exams, flashcards, and study tools).
+- 🚀 **Currently building [OPENGEEK](https://github.com/AhqafCoder/OPENGEEK)** – A developer community platform focused on collaboration, projects, events, and more!
 - 📦 Built several **Minecraft plugins** and hosted game servers with Docker, Nginx & CI/CD pipelines for game deployment.
 
 > Passionate about solving real-world problems through innovation and tech.
