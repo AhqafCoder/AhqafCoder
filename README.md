@@ -165,7 +165,7 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://instagram.com/ahqaf.ali" target="_blank">
+  <a href="https://instagram.com/ahqafali0403" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
