@@ -47,12 +47,35 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
 - 📚 Pursuing **B.Tech in CSE** at **Invertis University**  
 - 💻 Experienced in **Webapp Development, Cloud Hosting, and Server Management**  
 - 🚀 Interested in **AI, Game Development, and Competitive Coding**  
-- 🏎 Currently working on a **Formula Kart Design Challenge season 9** 
+- 🏎 Currently working on a **Formula Kart Design Challenge season 9**
 
+<br>
+
+## 🏅 Achievements & Projects
+
+- 🥇 **Techathon 2024 Winner** – Secured 1st place among 50+ teams across multiple universities.
+- 🥇 **Inverthon 2025 Champion** – Won 1st position in an inter-department hackathon, competing against senior developers and teams.
+- 🧠 **Created [InvertisPrep](https://github.com/your-invertisprep-repo)** – An exam preparation platform tailored for university students (exams, flashcards, and study tools).
+- 🚀 **Currently building [OpenGeek](https://github.com/your-opengeek-repo)** – A developer community platform focused on collaboration, projects, events, and more!
+- 📦 Built several **Minecraft plugins** and hosted game servers with Docker, Nginx & CI/CD pipelines for game deployment.
+
+> Passionate about solving real-world problems through innovation and tech.
+
+<br>
+
+
+## 📊 GitHub Contribution Graph
+<a href="https://github.com/AhqafCoder">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhqafCoder&bg_color=000000&color=ffffff&line=FFA500&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</a>
+
+<br>
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhqafCoder&theme=dracula&no-frame=true)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhqafCoder&theme=onedark&no-frame=true)
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -132,7 +155,7 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
 
 
 ## 📫 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-AhqafCoder-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/AhqafCoder)
+[![Discord](https://img.shields.io/badge/Discord-AhqafCoder-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/ahqafcoder)
 
 ---
 
