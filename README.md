@@ -5,11 +5,13 @@
 </p>
 
 <p align="center"><strong>
-  🚀 Full-Stack Developer | Game Server Host | Tech Enthusiast
+  🚀 Full-Stack Developer | R&D Engineer | Autonomous Systems Builder
 </strong></p>
 
 
-Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <strong>Jugadu Gaming</strong> — a passionate developer with experience in <strong>web and app development, game server hosting, and modern backend systems</strong>. I love creating scalable applications using the <strong>MERN stack, Django, and cloud technologies</strong>.
+Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <strong>Jugadu Gaming</strong> — a developer focused on building <strong>scalable applications, intelligent systems, and real-world tech solutions</strong>.  
+
+I work across <strong>full-stack development, AI workflows, cloud systems, and robotics</strong>, combining software with hardware to build impactful systems.
 
 ---
 
@@ -38,28 +40,30 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
 
 
 ## 🚀 About Me
-- 👨‍💻 I’m **@AhqafCoder**, a passionate coder and learner.
-- 🌍 Open to collaborations in **Webapp Development & Server Hosting**
-- 🎮 Also managing **Indipixel Minecraft Arcade Server**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I am single** 😜
-- 🎮 Creator of **Indipixel**, a Minecraft arcade server for **Bedwars & Practice Modes**  
-- 📚 Pursuing **B.Tech in CSE** at **Invertis University**  
-- 💻 Experienced in **Webapp Development, Cloud Hosting, and Server Management**  
-- 🚀 Interested in **AI, Game Development, and Competitive Coding**  
-- 🏎 Currently working on a **Formula Kart Design Challenge season 9**
+- 👨‍💻 I’m **@AhqafCoder**, focused on building real-world tech systems  
+- 🏢 **Tech Associate @ Invertis Incubation Center**  
+- 🚀 Working with **EduSphere Technologies (Startup)**  
+- 🛩️ Currently developing a **Hybrid VTOL Drone (Autonomous System)**  
+- 🌍 Open to collaborations in **Full-Stack, AI Systems & Automation**  
+- 🎮 Managing **IndiPixel Minecraft Arcade Server**  
+- 📚 Pursuing **B.Tech in CSE — Invertis University**  
+- 💻 Strong in **Web Development, Cloud Systems & Backend Engineering**  
+- ⚡ Fun fact: I build both **apps & aircrafts** 😄  
 
 <br>
 
 ## 🏅 Achievements & Projects
 
-- 🥇 **Techathon 2024 Winner** – Secured 1st place among 50+ teams across multiple universities.
-- 🥇 **Inverthon 2025 Champion** – Won 1st position in an inter-department hackathon, competing against senior developers and teams.
-- 🧠 **Created [InvertisPrep](https://github.com/AhqafCoder/InvertisPrep)** – An exam preparation platform tailored for university students (exams, flashcards, and study tools).
-- 🚀 **Currently building [OPENGEEK](https://github.com/AhqafCoder/OPENGEEK)** – A developer community platform focused on collaboration, projects, events, and more!
-- 📦 Built several **Minecraft plugins** and hosted game servers with Docker, Nginx & CI/CD pipelines for game deployment.
+- 🥇 **Smart India Hackathon (SIH) 2025 Winner**  
+- 🥇 **Inverthon 2025 Winner**  
+- 🥇 **Techathon 2024 Winner**  
+- 🧠 **Created [InvertisPrep](https://github.com/AhqafCoder/InvertisPrep)** — A gamified exam preparation platform  
+- 🚀 **Building [OPENGEEK](https://github.com/AhqafCoder/OPENGEEK)** — A scalable developer community platform  
+- 🛩️ Working on a **Hybrid VTOL Drone** combining aerodynamics, robotics & AI  
+- 📦 Built and deployed systems including **automation workflows, APIs, and cloud-based applications**  
+- 🎮 Developed and hosted **game servers with Docker, Nginx & CI/CD pipelines**  
 
-> Passionate about solving real-world problems through innovation and tech.
+> Focused on building systems that combine software, hardware, and intelligence.
 
 <br>
 
@@ -85,70 +89,68 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
         <tr>
             <td style="padding:5px">
               <h3 style="margin-top: 0px; paddding-top:0px;">Programming Languages</h3>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
                 <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
                 <img width="12" />
-                <img src="https://cdn.simpleicons.org/rust/ffffff" height="40" alt="rust logo"/>
+                <img src="https://cdn.simpleicons.org/rust/ffffff" height="40"/>
             </td>
           <td style="padding:5px">
                 <h3>Databases & ORMs </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-                <img src="https://ik.imagekit.io/coderhisham/my-sql?updatedAt=1721630071786" alt="mysql" width="40" height="40"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+                <img src="https://ik.imagekit.io/coderhisham/my-sql?updatedAt=1721630071786" width="40"/>
                 <img width="12" />
-                <img src="https://ik.imagekit.io/coderhisham/postgres.png?updatedAt=1731555489660" alt="postgres" width="40" height="40"/>
+                <img src="https://ik.imagekit.io/coderhisham/postgres.png?updatedAt=1731555489660" width="40"/>
                 <img width="12" />
-                <img src="https://ik.imagekit.io/coderhisham/prismaHD.png?updatedAt=1731556075450" alt="postgres" width="40" height="40"/>
+                <img src="https://ik.imagekit.io/coderhisham/prismaHD.png?updatedAt=1731556075450" width="40"/>
                 <img width="12" />
-                <img src="https://ik.imagekit.io/coderhisham/drizzle.png?updatedAt=1731556075100" alt="drizzle" width="40" height="40"/>
+                <img src="https://ik.imagekit.io/coderhisham/drizzle.png?updatedAt=1731556075100" width="40"/>
             </td>
         </tr>
         <tr>
             <td style="padding:5px">
                 <h3>Web Development Technologies</h3>
-                <img src="https://ik.imagekit.io/coderhisham/next-js-icon-seeklogo.svg?updatedAt=1721629179031" alt="nextjs" width="42" height="42"/>
+                <img src="https://ik.imagekit.io/coderhisham/next-js-icon-seeklogo.svg?updatedAt=1721629179031" width="42"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" alt="react" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
                 <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
                 <img width="12" />
-                <img src="https://ik.imagekit.io/coderhisham/express%20Logo?updatedAt=1721628640014" alt="express" width="40" height="40"/>
+                <img src="https://ik.imagekit.io/coderhisham/express%20Logo?updatedAt=1721628640014" width="40"/>
                 <img width="12" />
-                <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+                <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
                 <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
                 <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
                 <img width="12" />
-                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-                <img width="12" />
-                <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>-->
+                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
             </td>
             <td style="padding:5px">
                 <h3>Other Tools</h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
                 <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> 
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40"/>
                 <img width="12" />
-                <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+                <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
             </td>
         </tr>
     </table>
@@ -161,32 +163,25 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
 <div align="center">
 
   <a href="https://github.com/AhqafCoder" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/ahqafali0403" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://discord.com/users/ahqafcoder" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/>
+    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:ahqafaliofficial@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 
 </div>
 
 <br>
 
-
 <h3 align="center">
-  Thanks for visiting! 🚀<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Keep+building+cool+stuff!;Follow+for+more+dev+journeys+%F0%9F%9A%80" alt="Thanks animation" />
+  🚀 Building the future — from code to autonomous systems  
 </h3>
-
-
