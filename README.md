@@ -54,7 +54,7 @@ I work across <strong>full-stack development, AI workflows, cloud systems, and r
 
 ## 🏅 Achievements & Projects
 
-- 🥇 **Smart India Hackathon (SIH) 2025 Winner**  
+- 🥇 **Smart India Hackathon (SIH) 2025 Winner **  
 - 🥇 **Inverthon 2025 Winner**  
 - 🥇 **Techathon 2024 Winner**  
 - 🧠 **Created [InvertisPrep](https://github.com/AhqafCoder/InvertisPrep)** — A gamified exam preparation platform  
