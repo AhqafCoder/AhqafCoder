@@ -87,104 +87,41 @@ I work across <strong>full-stack development, AI workflows, cloud systems, and r
 
 ## 🛠️ Tech Stack
 
-<div id="image-table" align="center">
-    <table style="">
-        <tr>
-            <td style="padding:5px">
-              <h3 style="margin-top: 0px; paddding-top:0px;">Programming Languages</h3>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-                <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-                <img width="12" />
-                <img src="https://cdn.simpleicons.org/rust/ffffff" height="40"/>
-            </td>
-          <td style="padding:5px">
-                <h3>Databases & ORMs </h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-                <img src="https://ik.imagekit.io/coderhisham/my-sql?updatedAt=1721630071786" width="40"/>
-                <img width="12" />
-                <img src="https://ik.imagekit.io/coderhisham/postgres.png?updatedAt=1731555489660" width="40"/>
-                <img width="12" />
-                <img src="https://ik.imagekit.io/coderhisham/prismaHD.png?updatedAt=1731556075450" width="40"/>
-                <img width="12" />
-                <img src="https://ik.imagekit.io/coderhisham/drizzle.png?updatedAt=1731556075100" width="40"/>
-            </td>
-        </tr>
-        <tr>
-            <td style="padding:5px">
-                <h3>Web Development Technologies</h3>
-                <img src="https://ik.imagekit.io/coderhisham/next-js-icon-seeklogo.svg?updatedAt=1721629179031" width="42"/>
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40"/>
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-                <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-                <img width="12" />
-                <img src="https://ik.imagekit.io/coderhisham/express%20Logo?updatedAt=1721628640014" width="40"/>
-                <img width="12" />
-                <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
-                <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
-                <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-                <img width="12" />
-                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-            </td>
-            <td style="padding:5px">
-                <h3>Other Tools</h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-                <img width="12" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> 
-                <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40"/>
-                <img width="12" />
-                <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-            </td>
-        </tr>
-    </table>
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,java,c,cpp,python,rust" />
+
+**Web & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,graphql,nginx,redux,tailwind" />
+
+**Databases & ORMs**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
+
+**Tools & Infra**
+<br>
+<img src="https://skillicons.dev/icons?i=git,linux,bash,figma,aws,docker,kubernetes" />
+
 </div>
 
 <br>
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 <div align="center">
 
-  <a href="https://github.com/AhqafCoder" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-
-  <a href="https://instagram.com/ahqafali0403" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-
-  <a href="https://discord.com/users/ahqafcoder" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
-  </a>
-
-  <a href="mailto:ahqafaliofficial@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
+<a href="https://github.com/AhqafCoder" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>&nbsp;
+<a href="https://instagram.com/ahqafali0403" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;
+<a href="https://discord.com/users/ahqafcoder" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>&nbsp;
+<a href="mailto:ahqafaliofficial@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 
 </div>
 
 <br>
 
-<h3 align="center">
-  🚀 Building the future — from code to autonomous systems  
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<h3 align="center">🚀 Building the future — from code to autonomous systems</h3>
