@@ -16,28 +16,23 @@ Welcome to my GitHub profile! I'm <strong>Ahqaf Ali</strong>, also known as <str
 
 I work across <strong>full-stack development, AI workflows, cloud systems, and robotics</strong>, combining software with hardware to build impactful systems.
 
----
+## GitHub Stats
 
-<div align="center">
 <table>
-<tr>
-<td>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AhqafCoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" width="400" height="200"/>
- </td>
-<td>
- 
-  <img 
-  src="https://streak-stats.demolab.com?user=AhqafCoder&theme=custom&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" 
-  alt="GitHub Streak" 
-  width="400" 
-  height="200"
-/>
-
-</td>
-</tr>
+  <tr>
+    <th>Coding Streak</th>
+    <th>GitHub Stats</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=AhqafCoder&theme=dark&hide_border=true"  />
+    </td>
+    <td>
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/AhqafCoder?cardType=octocat&theme=dark&preferLogin=false&Border=%23DD272700" />
+  </a>
+    </td>
+  </tr>
 </table>
-</div>
 
 
 
